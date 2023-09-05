@@ -18,7 +18,7 @@ const Home = () => {
               <Col lg="6" md="6">
                 <div className="hero_content">
                   <p className="hero_subtitle"> Trending product in </p>
-                  <h2>Make Your Interior More Minimalistic & Modern</h2>
+                  <h2> Votre satisfation est garantie </h2>
                   <p>lorem ipsum</p>
                   <button className="buy_btn">
                     <Link to="">SHOP NOW</Link>{" "}
